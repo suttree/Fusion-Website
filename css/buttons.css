@@ -1,0 +1,14 @@
+a.button{
+background:url(img/button.gif);
+display:block;
+color:#555555;
+font-weight:bold;
+height:30px;
+line-height:29px;
+margin-bottom:14px;
+text-decoration:none;
+width:191px;
+}
+a:hover.button{
+color:#0066CC;
+}
